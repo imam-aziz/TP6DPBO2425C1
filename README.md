@@ -58,6 +58,6 @@ Tambahkan sebuah GUI Form yang ditampilkan di awal program (seperti main menu se
 **Berikut adalah Dokumentasi berupa ScreenRecord saat program dijalankan di IntelliJ IDEA**
 
 <video width="600" controls>
-  <source src="Dokumentasi/Dokumentasi.mkv" type="video/x-matroska">
+  <source src="Dokumentasi/Dokumentasi.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
