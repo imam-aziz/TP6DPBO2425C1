@@ -55,5 +55,11 @@ Tambahkan sebuah GUI Form yang ditampilkan di awal program (seperti main menu se
 - Menggunakan Musik untuk Background, SFX, dll ✅
     
 ## 📝 Dokumentasi
-**Berikut adalah Dokumentasi berupa ScreenRecord saat program dijalankan di IntelliJ IDEA**
+**Berikut adalah Dokumentasi berupa ScreenRecord/Sreenshot saat program dijalankan di IntelliJ IDEA**
 [![Watch the video](Dokumentasi/thumbnail.png)](Dokumentasi/Dokumentasi.mp4)
+<p align="center">
+  <img src="Dokumentasi/1.jpg" alt="1" width="150" />
+  <img src="Dokumentasi/2.jpg" alt="2" width="150" />
+  <img src="Dokumentasi/3.jpg" alt="3" width="150" />
+  <img src="Dokumentasi/4.jpg" alt="4" width="150" />
+</p>
