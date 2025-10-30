@@ -56,8 +56,5 @@ Tambahkan sebuah GUI Form yang ditampilkan di awal program (seperti main menu se
     
 ## 📝 Dokumentasi
 **Berikut adalah Dokumentasi berupa ScreenRecord saat program dijalankan di IntelliJ IDEA**
+[Download / Watch Video](Dokumentasi/Dokumentasi.mp4)
 
-<video width="600" controls>
-  <source src="Dokumentasi/Dokumentasi.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
