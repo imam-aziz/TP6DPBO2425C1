@@ -9,7 +9,7 @@
 
 ### Flappy Momoi! 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTE6eU2UV4hlxkX8bEftLQYwl0po5Phuw_XA&s" alt="Logo contoh" width="100" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTE6eU2UV4hlxkX8bEftLQYwl0po5Phuw_XA&s" alt="Logo contoh" width="250" />
 </p>
 
 - Game yang basicnya adalah FlappyBird yang dimainkan dengan melewati setiap obstacle untuk menambah skor.
