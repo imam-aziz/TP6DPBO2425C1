@@ -33,56 +33,31 @@ Berisi atribut dan method yang digunakan untuk mengatur Logika game.
 ### Class Sound
 Berisi atribut dan method yang digunakan untuk mengatur Suara dalam game.
 
-
 ### Flow Program
 <pre>
-  1. Program dimulai dengan data awal (hardcode)
-  2. Menampilkan data awal Produk
-  3. Menambahkan data baru dengan atribut yang harus lengkap (ada Error Handling)
-  5. Mengedit data dengan atribut yang harus lengkap (ada Error Handling)
-  6. Menghapus data dengan confirmation prompt
+  1. Program game dimulai dengan menampilkan **Menu Utama** yang terdapat tombol untuk **Mulai Main** dan **Keluar/Exit**.
+  2. Jika user menekan tombol **GAS MAIN** maka  page pindah ke game dan terdapat countdown selama 3 detik.
+  3. User memainkan game dengan menekan tombol **SPACE** untuk lompat mengatur karakter dalam game.
+  5. Jika terkena **Pipa** atau **Tanah** maka **Game Over** dan permainan dihentikan.
+  6. User bisa memulai kembali permainan dengan menekan tombol **'R'** pada Keyboard.
+  7. Pada **Menu Utama** jika user menekan tombol **MENDING TURU** maka game akan keluar/exit.
 </pre>
-
-### Connect Database
-Pada Tugas Praktikum kali ini, menggunakan tugas sebelumnya yaitu TP4 dengan beberpaa perubahan di bagian data. Kali ini data diambil dari database MySQL, tidak dari hardcode seperti pada TP4. Untuk CRUD sudah tersambung ke Database MySQL. File data ***product.sql*** terdapat pada lampiran.
  
-### Requirements
-- Hubungkan semua proses CRUD dengan database ✅
-- Hapus penggunaan variabel ArrayList. (*) ✅
-- Tampilkan dialog/prompt error jika masih ada kolom input yang kosong saat insert/update ✅
-- Tampilkan dialog/prompt error jika sudah ada ID yang sama saat insert ✅
+### Spesifikasi Wajib
+- Hentikan permainan saat player menabrak/menyentuh pipa atau terjatuh ke batas bawah JFrame (Game Over) ✅
+- Setelah Game Over, tambahkan fitur untuk restart permainan melalui penekanan tombol “R” pada keyboard ✅
+- Buat sebuah JLabel untuk menampilkan skor ✅
+- Setiap kali player melewati pipa, skor bertambah (+1) ✅
+
+### Spesifikasi BONUS (+20)
+Tambahkan sebuah GUI Form yang ditampilkan di awal program (seperti main menu sebelum game FlappyBird). GUI Form terdiri dari 2 tombol, tombol untuk memainkan game FlappyBird dan tombol untuk menutup program ✅
+
+### Spesifikasi Creative
+- Mengganti gambar Background dan Player ✅
+- Menggunakan Musik untuk Background, SFX, dll ✅
     
 ## 📝 Dokumentasi
-**Berikut adalah Dokumentasi berupa Screenshot saat program dijalankan di IntelliJ IDEA**
+**Berikut adalah Dokumentasi berupa ScreenRecord saat program dijalankan di IntelliJ IDEA**
 
 ### Tampilan Awal
-![01](Dokumentasi/01.png)
-
-### ERROR HANDLING INSERT
-![02](Dokumentasi/02.png)
-![03](Dokumentasi/03.png)
-![03](Dokumentasi/err.png)
-
-### INSERT
-![04](Dokumentasi/04.png)
-
-### Database setelah Insert
-![041](Dokumentasi/041.png)
-
-### ERROR HANDLING UPDATE
-![05](Dokumentasi/05.png)
-![06](Dokumentasi/06.png)
-
-### UPDATE
-![08](Dokumentasi/08.png)
-
-### Database setelah Update
-![081](Dokumentasi/081.png)
-
-
-### DELETE
-![09](Dokumentasi/09.png)
-![10](Dokumentasi/10.png)
-
-### Database setelah Delete
-![101](Dokumentasi/101.png)
+![01](Dokumentasi/Dokumentasi.mkv)
