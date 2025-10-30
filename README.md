@@ -34,14 +34,12 @@ Berisi atribut dan method yang digunakan untuk mengatur Logika game.
 Berisi atribut dan method yang digunakan untuk mengatur Suara dalam game.
 
 ### Flow Program
-<pre>
   1. Program game dimulai dengan menampilkan **Menu Utama** yang terdapat tombol untuk **Mulai Main** dan **Keluar/Exit**.
   2. Jika user menekan tombol **GAS MAIN** maka  page pindah ke game dan terdapat countdown selama 3 detik.
   3. User memainkan game dengan menekan tombol **SPACE** untuk lompat mengatur karakter dalam game.
   5. Jika terkena **Pipa** atau **Tanah** maka **Game Over** dan permainan dihentikan.
   6. User bisa memulai kembali permainan dengan menekan tombol **'R'** pada Keyboard.
   7. Pada **Menu Utama** jika user menekan tombol **MENDING TURU** maka game akan keluar/exit.
-</pre>
  
 ### Spesifikasi Wajib
 - Hentikan permainan saat player menabrak/menyentuh pipa atau terjatuh ke batas bawah JFrame (Game Over) ✅
