@@ -42,7 +42,7 @@ Berisi atribut dan method yang digunakan untuk mengatur Suara dalam game.
   7. Pada **Menu Utama** jika user menekan tombol **MENDING TURU** maka game akan keluar/exit.
  
 ### Spesifikasi Wajib
-- Hentikan permainan saat player menabrak/menyentuh pipa atau terjatuh ke batas bawah JFrame (Game Over) ✅
+- Hentikan permainan saat player menabrak/menyentuh pipa / terjatuh ke batas bawah JFrame (Game Over) ✅
 - Setelah Game Over, tambahkan fitur untuk restart permainan melalui penekanan tombol “R” pada keyboard ✅
 - Buat sebuah JLabel untuk menampilkan skor ✅
 - Setiap kali player melewati pipa, skor bertambah (+1) ✅
